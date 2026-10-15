@@ -1,0 +1,6 @@
+{
+  "name": "GenAI Voice & Audio Studio",
+  "description": "Convert text into lifelike speech and audio using Google GenAI models, explore voices and emotion styles, and export Python and Node.js code.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
